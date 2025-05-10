@@ -1,1 +1,1 @@
-# StudySync
+A fully responsive and modern landing page built using HTML and CSS, designed for a fictional educational platform called StudySync. The layout is clean, user-friendly, and follows a professional design system suitable for startups or e-learning platforms looking to create a strong first impression.
